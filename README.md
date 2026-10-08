@@ -45,13 +45,15 @@ started as something I needed myself.
 
 ---
 
-## immich
+## open source
 
-My tool for [Immich](https://github.com/immich-app/immich) and pull requests to the main repo.
+My tool for [Immich](https://github.com/immich-app/immich) and pull requests to projects I use.
 
 - **[immich-album-people-hider](https://github.com/DawidKrynski/immich-album-people-hider)** - hides people who only appear in party, wedding or meme albums.&nbsp;![release](https://img.shields.io/github/v/release/DawidKrynski/immich-album-people-hider?style=flat-square&color=d5d5d5&labelColor=0A0209)
-- [#31799](https://github.com/immich-app/immich/pull/31799) fix(web): remember selected search type · merged ✅
-- [#31800](https://github.com/immich-app/immich/pull/31800) fix(mobile): use context search once server features are loaded
+- immich [#31799](https://github.com/immich-app/immich/pull/31799) fix(web): remember selected search type · merged ✅ (3.3.0)
+- immich [#31848](https://github.com/immich-app/immich/pull/31848) fix(web): keep other comments visible when deleting a comment · merged ✅ (3.3.0)
+- immich [#31800](https://github.com/immich-app/immich/pull/31800) fix(mobile): use context search once server features are loaded · open
+- navidrome [#6241](https://github.com/navidrome/navidrome/pull/6241) fix(persistence): include co-credited album artists when adding an artist to a playlist · merged ✅
 
 ---
 
